@@ -1,0 +1,55 @@
+echo ===== Installing MCeditor... =====
+echo ===== Installation Complete. =====
+echo ======== Starting MCeditor... ========
+echo ==== Installing Java_1.0... ====
+echo ====== button{function}:Start:if pressed start: will/:run://file:java.exe
+Organising filesystem
+[04/09/2022 20:44:38 PM] ATLauncher Version: 3.4.20.1
+[04/09/2022 20:44:38 PM] App Arguments: ["--updated\u003dtrue"]
+[04/09/2022 20:44:38 PM] JVM Arguments: ["-Djna.nosys\u003dtrue"]
+[04/09/2022 20:44:38 PM] Java Version: Java 8 (1.8.0_341)
+[04/09/2022 20:44:38 PM] Java Path: C:\Program Files (x86)\Java\jre1.8.0_341
+[04/09/2022 20:44:38 PM] 64 Bit Java: false
+[04/09/2022 20:44:38 PM] RAM Available: 8030MB
+[04/09/2022 20:44:38 PM] Launcher Directory: **USERSDIR**
+[04/09/2022 20:44:38 PM] GPU: Intel(R) UHD Graphics (Intel Corporation (0x8086)) DriverVersion=30.0.101.1404 1024MB VRAM
+[04/09/2022 20:44:38 PM] CPU: Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz 2 cores/4 threads
+[04/09/2022 20:44:39 PM] Operating System: Windows (11 build 22000)
+[04/09/2022 20:44:39 PM] Bitness: 64
+[04/09/2022 20:44:39 PM] Uptime: 207304
+[04/09/2022 20:44:39 PM] Manufacturer: Microsoft
+[04/09/2022 20:44:40 PM] Showing splash screen and loading everything
+[04/09/2022 20:44:40 PM] Checking for updated files!
+[04/09/2022 20:44:44 PM] Finished downloading updated files!
+[04/09/2022 20:44:45 PM] You're using 32 bit Java on a 64 bit Windows install!
+[04/09/2022 20:44:54 PM] Launcher finished loading everything
+[04/09/2022 20:44:54 PM] Launcher not setup. Loading Setup Dialog
+[04/09/2022 20:44:57 PM] Launcher opening
+[04/09/2022 20:44:57 PM] Made By Bob*
+[04/09/2022 20:44:57 PM] *(Not Actually)
+[04/09/2022 20:44:57 PM] Setting up Bottom Bar
+[04/09/2022 20:44:57 PM] Finished Setting up Bottom Bar
+[04/09/2022 20:44:57 PM] Setting up Tabs
+[04/09/2022 20:44:57 PM] Finished Setting up Tabs
+[04/09/2022 20:44:57 PM] Showing Launcher
+[04/09/2022 20:45:45 PM] Started install of Minecraft version 1.0
+[04/09/2022 20:46:04 PM] Failed to copy file **USERSDIR**\assets\objects\be\bea1c181fce1150f3aaea8f14a773394ccc253d2 to **USERSDIR**\instances\Minecraft100\resources\streaming\cat.mus
+[04/09/2022 20:46:04 PM] java.nio.file.FileSystemException: **USERSDIR**\assets\objects\be\bea1c181fce1150f3aaea8f14a773394ccc253d2 -> **USERSDIR**\instances\Minecraft100\resources\streaming\cat.mus: There is not enough space on the disk.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+ 
